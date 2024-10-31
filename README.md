@@ -20,11 +20,11 @@ Iniciar la aplicación: Al abrirla, se solicita permiso de administrador (es nec
 Configurar Servicios:
 
 - Haz clic en "Agregar Servicios" para definir qué servicios deseas que estén en ejecución o detenidos.
-- 
+
 - Guarda la configuración y cierra el diálogo.
-- 
+  
 - Iniciar Monitoreo: Haz clic en "Iniciar Monitoreo" para comenzar a supervisar los servicios según la configuración establecida.
-- 
+
 - Detener Monitoreo: Puedes detener el monitoreo en cualquier momento haciendo clic en "Detener Monitoreo".
 
 3. ¿Cómo se compila?
