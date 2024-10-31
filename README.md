@@ -46,6 +46,7 @@ Este comando compilará el proyecto en un ejecutable de Windows, ideal para ento
 NOTA:
 Esta aplicación requiere permisos de administrador para funcionar correctamente, ya que necesita acceso para iniciar y detener servicios de Windows.
 
-![Screenshot 2024-10-31 074914](https://github.com/user-attachments/assets/87e4ac8d-af56-4f68-81fc-1a10bb8b9442)
+![Screenshot 2024-10-31 074914](https://github.com/user-attachments/assets/5ee76794-2d36-41ee-b1a0-2f5a76c43906)
+
 
 
