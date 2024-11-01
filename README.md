@@ -31,9 +31,13 @@ Configurar Servicios:
 Para compilar el proyecto y crear un archivo ejecutable (.exe) para distribución, sigue estos pasos:
 
 Clona el repositorio: git clone https://github.com/tu_usuario/windows-services-monitor.git
+
 Accede al directorio del proyecto: cd windows-services-monitor
+
 Instala las dependencias: pip install -r requirements.txt
+
 Ejecuta la aplicación: python main.py
+
 Crear .EXE para despliegue en producción
 Para generar un archivo ejecutable (.exe) de Windows Services Monitor App y facilitar su distribución como una aplicación independiente, ejecuta el siguiente comando:
 
